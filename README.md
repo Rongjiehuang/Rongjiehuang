@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-**Rongjie Huang (黄融杰)** is a Second-Year Master's student **(expected to graduate at 2024.03)** in the College of Computer Science and Software at [Zhejiang University](https://www.zju.edu.cn/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I have long-term collaboration with [Yi Ren](https://github.com/RayeRen) **(ByteDance AI Lab)**, [Jinglin Liu](https://github.com/MoonInTheRiver) **(Zhejiang University)**. I am a research intern at [Tencent AI Lab (Seattle Lab)](https://ai.tencent.com/ailab/en/index), where I work with [Chunlei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=NCKZGb0AAAAJ&view_op=list_works&sortby=pubdate) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ&hl=zh-CN). I have published **10+** papers at the top international AI conferences such as **NeurIPS/ICLR/IJCAI/ACM-MM**.
+**Rongjie Huang (黄融杰)** is a Second-Year Master's student **(expected to graduate at 2024.03)** in the College of Computer Science and Software at [Zhejiang University](https://www.zju.edu.cn/), supervised by [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). I have long-term collaboration with [Yi Ren](https://github.com/RayeRen) **(ByteDance AI Lab)**, [Jinglin Liu](https://github.com/MoonInTheRiver) **(Zhejiang University)**. I am a research intern at [Tencent AI Lab (Seattle Lab)](https://ai.tencent.com/ailab/en/index), where I work with [Chunlei Zhang](https://scholar.google.com/citations?user=NCKZGb0AAAAJ) and [Dong Yu](https://scholar.google.com/citations?user=tMY31_gAAAAJ). I have published **10+** papers at the top international AI conferences such as **NeurIPS/ICLR/IJCAI/ACM-MM**.
 
 
 **I am actively looking for academic collaboration, feel free to drop me an email.**
 
 ### 📎 Homepages
 - Personal Pages: https://rongjiehuang.github.io (updated recently🔥)
-- Email: rongjiehuang@zju.edu.cn
 - Linkedin: https://www.linkedin.com/in/rongjie-huang-a362541b2
 - Google Scholar: https://scholar.google.com/citations?user=iRHBUsgAAAAJ
 
