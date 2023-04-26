@@ -10,6 +10,8 @@
 - Google Scholar: https://scholar.google.com/citations?user=iRHBUsgAAAAJ
 
 ### 🔥 News
+- *2023.04*: [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) and [AcademiCodec](https://github.com/yangdongchao/AcademiCodec) come out! 
+- *2023.04*: One papers is accepted by ICML 2023!
 - *2023.02*: Make-An-Audio comes out! Media coverage: [Heart of Machine](https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw), [ByteDance](https://zhuanlan.zhihu.com/p/605228032), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096).
 - *2023.01*: One papers is accepted by ICLR 2023!
 - *2022.09*: Two papers are accepted by NeurIPS 2022!
@@ -33,7 +35,7 @@ My full paper list is shown at [my personal homepage](https://rongjiehuang.githu
 - [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model.](https://arxiv.org/abs/2106.09317) Chenye Cui, Yi Ren, Jinglin Liu, Feiyang Chen, **Rongjie Huang**, Mei Li, and Zhou Zhao. **Interspeech, 2021**
 
 #### Text-to-Audio Synthesis
-- [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **Arxiv**
+- [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.]() **Rongjie Huang**, Jiawei Huang, Dongchao Yang, Yi Ren, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao. **ICML, 2023**
 - [VarietySound: Timbre-Controllable Video to Sound Generation via Unsupervised Information Disentanglement.]() Chenye Cui, Yi Ren, Jinglin Liu, **Rongjie Huang**, Zhou Zhao. **ICASSP, 2023**
 
 #### Singing Voice Synthesis
