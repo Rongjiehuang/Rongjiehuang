@@ -5,6 +5,7 @@
 My research interest includes generative AI for speech/sing/audio and spoken language processing. I have published **20+** papers at the top international AI conferences such as **NeurIPS/ICLR/ICML/ACL/IJCAI/ACM-MM**.
 
 **I am actively looking for academic collaboration, feel free to drop me an email.**
+**I am now looking for full-time and internship jobs, or PhD positions. If you have openings, please contact me and I really appreciate it.**
 
 ### 📎 Homepages
 - Personal Pages: https://rongjiehuang.github.io (updated recently🔥)
