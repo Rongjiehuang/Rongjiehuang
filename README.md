@@ -20,8 +20,6 @@ My research interest includes generative AI for speech/sing/audio and audio-visu
 - *2023.02*: Make-An-Audio comes out! Media coverage: [Heart of Machine](https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw), [ByteDance](https://zhuanlan.zhihu.com/p/605228032), and [Twitter](https://twitter.com/_akhaliq/status/1619589070329348096).
 - *2023.01*: One papers is accepted by ICLR 2023!
 - *2022.09*: Two papers are accepted by NeurIPS 2022!
-<!-- - *2022.05*: We release a diffusion text-to-speech pipeline [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Rongjiehuang/ProDiff) using ProDiff [![](https://img.shields.io/github/stars/Rongjiehuang/prodiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/prodiff) and FastDiff [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff). Welcome to STAR and FORK!
-- *2022.04*: One paper is accepted by IJCAI 2022 -->
 
 
 
