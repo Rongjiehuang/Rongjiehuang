@@ -12,7 +12,7 @@ My research interest includes generative AI for speech/sing/audio and audio-visu
 - Google Scholar: https://scholar.google.com/citations?user=iRHBUsgAAAAJ
 
 ### 🔥 News
-- *2023.10*: I am awarded ByteDance Scholarship (13 students, per year), and Chu Kochen Presidential Scholarship (the highest honor at Zhejiang University)!
+- *2023.10*: I am awarded ByteDance Scholar Fellowship (13 students, per year), and Chu Kochen Presidential Scholarship (the highest honor at Zhejiang University)!
 - *2023.10*: [UniAudio](https://twitter.com/_akhaliq/status/1710112638422642732) comes out! 
 - *2023.09*: One papers is accepted by EMNLP 2023!
 - *2023.07*: One papers is accepted by ACM-MM 2023!
@@ -35,8 +35,9 @@ My full paper list is shown at [my personal homepage](https://rongjiehuang.githu
 
 #### Spoken Large Language Model
 - [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.](https://arxiv.org/abs/2304.12995) **Rongjie Huang**, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe. **Arxiv, 2023**
-- [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.](https://arxiv.org/abs/2310.00704) Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen Meng. **Arxiv, 2023**
 - [Make-A-Voice: Unified Voice Synthesis With Discrete Representation.]() **Rongjie Huang**, Chunlei Zhang, Yongqi Wang, Dongchao Yang, Luping Liu, Zhenhui Ye, Ziyue Jiang, CHAO WENG, Zhou Zhao, Dong Yu. **Arxiv, 2023**
+- [UniAudio: An Audio Foundation Model Toward Universal Audio Generation.](https://arxiv.org/abs/2310.00704) Dongchao Yang, Jinchuan Tian, Xu Tan, **Rongjie Huang**, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu, Zhou Zhao, Shinji Watanabe, Helen Meng. **Arxiv, 2023**
+- [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias.]() Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, Shengpeng Ji, **Rongjie Huang**, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao. **Arxiv**
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec.]() Dongchao Yang, Songxiang Liu, **Rongjie Huang**, Jinchuan Tian, Chao Weng, Yuexian Zou. **Arxiv**
 
 #### Text-to-Speech Synthesis
